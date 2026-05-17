@@ -5,8 +5,6 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-contact.mohammedtariq@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.mohammedtariq@gmail.com)
-
 </div>
 
 ---
@@ -37,7 +35,5 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammeddtariq&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeddtariq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammeddtariq&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
