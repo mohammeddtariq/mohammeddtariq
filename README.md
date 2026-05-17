@@ -31,7 +31,7 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,js,html,css,kotlin,sklearn,opencv,flask,git,github,vscode,jupyter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,js,html,css,kotlin&perline=8" />
 </div>
 
 ### 📦 Frameworks & Tools
