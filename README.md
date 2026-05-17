@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohammed Tariq
-### Software Engineering Student
+### 💻 Software Engineering Student
 
 <br/>
 
