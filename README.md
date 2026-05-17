@@ -3,7 +3,9 @@
 # Mohammed Tariq
 ### 💻 Software Engineering Student
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Mohammed+Tariq;Software+Engineering+Student" alt="Typing SVG" />
+</div>
 ---
 
 ### 🛠️ Languages & Tools
