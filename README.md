@@ -2,7 +2,6 @@
 
 # Mohammed Tariq
 ### 💻 Software Engineering Student
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub#hello-nice-to-meet-you--" />
 </div>
 
 ---
