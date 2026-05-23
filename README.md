@@ -26,6 +26,6 @@
 
 ---
 
-### 📊 Activity
+### 🐍 Contributions
 
 ![snake gif](https://github.com/mohammeddtariq/mohammeddtariq/blob/output/github-contribution-grid-snake-dark.svg)
