@@ -24,6 +24,8 @@
 
 ---
 
-### 📈 Contributions
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammeddtariq&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 📊 Activity
+
+![snake gif](https://github.com/mohammeddtariq/mohammeddtariq/blob/output/github-contribution-grid-snake-dark.svg)
