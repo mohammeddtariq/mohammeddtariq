@@ -23,9 +23,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<img src="https://github-stats.as93.net/api?username=mohammeddtariq&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-stats.as93.net/api/top-langs/?username=mohammeddtariq&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+![snake gif](https://github.com/mohammeddtariq/mohammeddtariq/blob/output/github-contribution-grid-snake-dark.gif?raw=true)
 
 </div>
