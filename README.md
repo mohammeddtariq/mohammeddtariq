@@ -25,7 +25,6 @@
 
 ### 📊 Stats
 
-<img src="https://streak-stats.demolab.com?user=mohammeddtariq&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeddtariq&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+[![GitHub](https://img.shields.io/badge/Visit%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammeddtariq?tab=repositories)
 
 </div>
