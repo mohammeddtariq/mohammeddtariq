@@ -3,8 +3,6 @@
 # Mohammed Tariq
 ### 💻 Software Engineering Student
 <div align="center">
-<div align="center">
-<div align="center">
 <img src="https://raw.githubusercontent.com/mohammeddtariq/mohammeddtariq/main/letscode.gif" width="300"/>
 </div>
 </div>
