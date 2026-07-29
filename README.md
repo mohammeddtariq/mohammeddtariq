@@ -5,7 +5,9 @@
 <div align="center">
 <div align="center">
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="300"/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/mohammeddtariq/mohammeddtariq/main/letscode.gif" width="300"/>
+</div>
 </div>
 </div>
 🛠️ Languages & Tools
