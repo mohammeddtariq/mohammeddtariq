@@ -4,7 +4,7 @@
 ### 💻 Software Engineering Student
 <div align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=%3C+LET'S+CODE+%3E" alt="Typing SVG" />`1
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=%3C+LET'S+CODE+%3E" alt="Typing SVG" />
 </div>
 </div>
 🛠️ Languages & Tools
