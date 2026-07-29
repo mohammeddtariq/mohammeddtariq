@@ -23,5 +23,7 @@
 ---
 ---
 ### 🐍 Contributions
-![snake gif](https://github.com/mohammeddtariq/mohammeddtariq/blob/output/github-contribution-grid-snake-dark.gif?raw=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammeddtariq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeddtariq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 </div>
